@@ -7,15 +7,10 @@ weight: 1
 
 # About Me
 
-Write your personal introduction here. You can include:
+I recently completed my PhD in Soil and Crop Science with the [Agricultural Sustainability and Climate Impacts lab](https://ascilab.colostate.edu/) at Colorado State University, where my work focused on irrigation-related greenhouse gas emssions. I am very excited to be joining the [Purdue Agroecology Laboratory](https://ag.purdue.edu/department/agry/lab-sites/pal/index.html) as a postdoc at the start of 2026. 
 
-- Your background and education
-- Current position or research focus
-- Personal interests
-- Professional experience
+Prior to grad school, I worked for several years with the [Ehleringer lab](https://www.ehleringer.net/) after receiving my BS in Environmental Studies from Westminster College in Salt Lake City. In a previous career, I was an aerialist on the US Ski Team. Outside of science, I spend my time cooking, gardening, traveling, and playing outside.
 
-This page supports **Markdown formatting**, so you can add:
-- *Italic text*
-- **Bold text**
-- [Links](https://example.com)
-- Lists like this one
+[CV](/files/DriscollCV_aug2025.pdf)
+Email: avery.driscoll@colostate.edu
+[LinkedIn](https://www.linkedin.com/in/avery-driscoll-978624218/)
