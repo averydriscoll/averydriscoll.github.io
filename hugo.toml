@@ -1,0 +1,89 @@
+baseURL = "https://averydriscoll.github.io"  # Replace with your actual username
+languageCode = "en-us"
+title = "Your Name - Academic Website"
+theme = "cleanwhite"
+
+paginate = 5
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+[author]
+name = "Your Name"
+
+[params]
+header_image = "img/home-bg.jpg"
+SEOTitle = "Your Name | Academic Website"
+description = "Academic researcher and data scientist"
+keyword = "research, data science, academia"
+url = "https://averydriscoll.github.io"  # Replace with your username
+baseurl = "https://averydriscoll.github.io"  # Replace with your username
+
+# Sidebar settings
+sidebar_about_description = "Academic researcher interested in [your field]. Welcome to my website where I share my research, data, and outreach activities."
+sidebar_avatar = "img/avatar.jpg"  # You can add a profile photo later
+
+# Social media links (optional - remove # to enable)
+# twitter_username = "yourusername"
+# github_username = "yourusername"  
+# facebook_username = "yourusername"
+# linkedin_username = "yourusername"
+
+# Feature settings
+featured_tags = true
+featured_condition_size = 1
+bookmark_tag = "bookmark"
+omit_categories = false
+
+# Analytics (optional)
+# ba_track_id = ""
+# [services.googleAnalytics]
+# id = ""
+
+# Comments (optional)
+# [services.disqus]
+# shortname = ""
+
+# Search (optional)
+algolia_search = false
+
+# Reward (optional)
+reward = false
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+style = "github"
+lineNos = false
+
+# Menu configuration
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About" 
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Research"
+url = "/research/"
+weight = 3
+
+[[menu.main]]
+name = "Data"
+url = "/data/"
+weight = 4
+
+[[menu.main]]
+name = "Outreach"
+url = "/outreach/"
+weight = 5
+
+[[menu.main]]
+name = "Archive"
+url = "/archive/"
+weight = 6
