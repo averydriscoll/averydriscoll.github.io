@@ -57,14 +57,14 @@ unsafe = true
 style = "github"
 lineNos = false
 
-# Menu configuration
+# Menu configuration - this replaces the default "News" and "All posts" buttons
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About" 
+name = "About"
 url = "/about/"
 weight = 2
 
@@ -82,8 +82,3 @@ weight = 4
 name = "Outreach"
 url = "/outreach/"
 weight = 5
-
-[[menu.main]]
-name = "Archive"
-url = "/archive/"
-weight = 6
