@@ -1,9 +1,28 @@
-baseURL: 'https://averydriscoll.github.io'
+baseURL: 'https://yourusername.github.io'
 languageCode: en-us
-title: Testing
+title: Your Site Title
 theme: cleanwhite
 
+# Try adding these theme-specific parameters
 params:
-  # Theme-specific parameters
-  author: Check
-  description: Is this working
+  author: "Your Name"
+  description: "Your site description"
+  
+# Navigation menu
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Research"
+      url: "/research/"
+      weight: 3
+    - name: "Data"
+      url: "/data/"
+      weight: 4
+    - name: "Outreach"
+      url: "/outreach/"
+      weight: 5
