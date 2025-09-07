@@ -28,10 +28,10 @@ sidebar_avatar = "img/avatar.jpg"  # You can add a profile photo later
 # linkedin_username = "yourusername"
 
 # Feature settings
-featured_tags = true
-featured_condition_size = 1
+featured_tags = false
+featured_condition_size = 0
 bookmark_tag = "bookmark"
-omit_categories = false
+omit_categories = true
 
 # Analytics (optional)
 # ba_track_id = ""
