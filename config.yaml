@@ -1,0 +1,9 @@
+baseURL: 'https://averydriscoll.github.io'
+languageCode: en-us
+title: Testing
+theme: cleanwhite
+
+params:
+  # Theme-specific parameters
+  author: Check
+  description: Is this working
