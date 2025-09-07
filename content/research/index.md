@@ -1,6 +1,4 @@
-Research Page
-Create content/research.md:
-markdown---
+---
 title: "Research"
 date: 2024-09-07
 menu: "main"
@@ -9,21 +7,24 @@ weight: 2
 
 # Research
 
-## Current Research Projects
+## Greenhouse Gas Emissions from Irrigation
 
-### Project 1 Title
-Description of your first research project...
+description here
 
-### Project 2 Title  
-Description of your second research project...
+## Representation of Irrigation in Earth System Models
 
-## Publications
+description here
 
-1. **Paper Title** (Year). *Journal Name*. [Link](https://example.com)
-2. **Another Paper** (Year). *Conference Proceedings*. 
+## Crop Diversity and Yield Stability
 
-## Research Interests
+description here
 
-- Interest area 1
-- Interest area 2
-- Interest area 3
+## Desert Plant Ecophysiology
+
+description here
+
+## Coffee Provenancing with Stable Isotopes
+
+description here
+
+
