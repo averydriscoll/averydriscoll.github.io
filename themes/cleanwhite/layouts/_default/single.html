@@ -14,6 +14,8 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
+                    <!-- Only show tags if this is a blog post (has tags) -->
+                    {{ if .Params.tags }}
                     <div class="tags">
                         {{ range .Params.tags }}
                         <a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" title="{{ . }}">
@@ -21,8 +23,16 @@
                         </a>
                         {{ end }}
                     </div>
+                    {{ end }}
+                    
                     <h1>{{ .Title }}</h1>
+                    
+                    {{ if .Params.subtitle }}
                     <h2 class="subheading">{{ .Params.subtitle }}</h2>
+                    {{ end }}
+                    
+                    <!-- Only show metadata for blog posts (posts in /post/ section) or if explicitly requested -->
+                    {{ if or (eq .Section "post") (.Params.show_metadata) }}
                     <span class="meta">
                         {{ if .Params.metadata }}
                             {{ range $index, $element := .Params.metadata }}
@@ -50,6 +60,7 @@
                             {{ end }}
                         {{ end }}    
                     </span>
+                    {{ end }}
                 </div>
             </div>
         </div>
@@ -83,7 +94,8 @@
                 {{ partial "reward.html" . }}
                 {{ end }}
 
-                {{ if or (.PrevInSection) (.NextInSection) }}
+                <!-- Only show prev/next navigation for blog posts -->
+                {{ if and (or (.PrevInSection) (.NextInSection)) (eq .Section "post") }}
                 <hr>
                 <ul class="pager">
                     {{ if .PrevInSection }}
@@ -127,8 +139,8 @@
                 col-md-10 col-md-offset-1
                 sidebar-container">
 
-                <!-- Featured Tags -->
-                {{ if .Site.Params.featured_tags }}
+                <!-- Only show featured tags for blog posts -->
+                {{ if and .Site.Params.featured_tags (eq .Section "post") }}
                 <section>
                     <hr class="hidden-sm hidden-xs">
                     <h5><a href="/tags/">FEATURED TAGS</a></h5>
