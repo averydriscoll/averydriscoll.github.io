@@ -1,19 +1,19 @@
 baseURL = "https://averydriscoll.github.io"  # Replace with your actual username
 languageCode = "en-us"
-title = "Your Name - Academic Website"
+title = "Avery Driscoll"
 theme = "cleanwhite"
 
 paginate = 5
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-name = "Your Name"
+name = "Avery Driscoll"
 
 [params]
 header_image = "img/home-bg.jpg"
-SEOTitle = "Your Name | Academic Website"
-description = "Academic researcher and data scientist"
-keyword = "research, data science, academia"
+SEOTitle = "Avery Driscoll | Research Website"
+description = "Agriculture and climate change"
+keyword = "agriculture, climate change, soil and crop science, data science"
 url = "https://averydriscoll.github.io"  # Replace with your username
 baseurl = "https://averydriscoll.github.io"  # Replace with your username
 
