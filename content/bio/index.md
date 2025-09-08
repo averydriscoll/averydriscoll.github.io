@@ -6,7 +6,7 @@ weight: 1
 ---
 
 <img align="left" 
-  width="300" 
+  width="250" 
   src="/img/headshot.png"
   style="margin-right:20px;" />
 
