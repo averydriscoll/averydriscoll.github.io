@@ -3,6 +3,7 @@ title: "Bio"
 date: 2024-09-07
 menu: "main"
 weight: 1
+showtoc: false
 ---
 
 <img align="left" 
