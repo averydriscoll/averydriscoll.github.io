@@ -12,17 +12,19 @@ Coming soon
 
 description here
 
-## Representation of Irrigation in Earth System Models
+## Crop Diversity and Yield Stability
 
 description here
 
-## Crop Diversity and Yield Stability
+## Greenhouse Gas Emissions from Irrigation
 
 description here
 
 ## Desert Plant Ecophysiology
 
-My [partner](https://www.stevekannenberg.com/) and I have taken over the project as Jim enters retirement, and we still lead a team to the field each year for surveys and sampling. 
+# PHOTO HERE
+
+This long-term monitoring project was started by [Dr. Jim Ehleringer](https://www.ehleringer.net/) in the early 1980s. Over the past 45 years, four populations of desert shrubs have been revisited annually to survey growth, death, and establishment of individuals, and to collect leaf samples for analysis of stable carbon and oxygen isotopes. This extensive record of plant carbon, water, and nitrogen relations has established [large increases in plant water use efficiency driven by climate change](https://doi.org/10.1073/pnas.2008345117), revealed [strong effects of plant age on leaf nitrogen isotope ratios](https://doi.org/10.1111/nph.17668), and demonstrated [plant-level relationships between water use efficiency and growth and reproduction](https://doi.org/10.1007/s00442-020-04825-3). My [partner](https://www.stevekannenberg.com/) and I have taken over leading annual surveys as Jim enters retirement, and we host a [web app](https://www.stevekannenberg.com/about-1) that enables student interaction with the database.
 
 ## Coffee Provenancing with Stable Isotopes
 
