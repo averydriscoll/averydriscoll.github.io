@@ -1,7 +1,8 @@
+--
 title: "Research"
 date: 2025-10-1
 menu: "main"
-weight: 2
+weight: 4
 ---
 Coming soon
 
