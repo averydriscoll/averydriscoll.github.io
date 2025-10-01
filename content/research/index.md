@@ -1,4 +1,4 @@
---
+---
 title: "Research"
 date: 2025-10-1
 menu: "main"
