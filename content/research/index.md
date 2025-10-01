@@ -4,9 +4,6 @@ date: 2025-10-1
 menu: "main"
 weight: 4
 ---
-Coming soon
-
-<!-- 
 
 The core goal of my research program is to identify effective and scalable ways for our food systems to respond to climate change. I work on quantifying the effects of agricultural management and policy on both crop production and environmental impacts, especially greenhouse gas emissions. Current projects of interest involve 1) improving estimates of greenhouse gas emissions from land use change, 2) improving representation of agricultural water management in process-based crop models, and 3) improving understanding of how changes to crop productivity propagate through the global economy to influence agricultural land use. Below you will find some examples of published projects that I have led.
 
@@ -53,5 +50,4 @@ This long-term monitoring project was started by [Dr. Jim Ehleringer](https://ww
 
 In this project, we used [oxygen stable isotope ratios](https://doi.org/10.1002/rcm.8626) and [trace element ratios](https://doi.org/10.1016/j.foodchem.2020.126602) to map the origin of coffee beans. Oxygen and hydrogen stable isotope ratios in water vary spatially, and that signal is reflected in plant tissues. Similarly, trace element ratios can reflect local soil chemistry. This project was part of a successful lawsuit brought by Kona coffee farmers against retailers alleged to be making false marketing claims related to the coffee origin. This lawsuit, including the contributions of our analysis, was later covered by the [New York Times](https://www.nytimes.com/2024/01/18/science/kona-coffee-hawaii-authenticity.html).
 
--->
 
