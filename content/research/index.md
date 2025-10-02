@@ -5,14 +5,13 @@ menu: "main"
 weight: 4
 ---
 
-The core goal of my research program is to identify effective and scalable ways for our food systems to respond to climate change. I work on quantifying the effects of agricultural management and policy on both crop production and environmental impacts, especially greenhouse gas emissions. Current projects of interest involve 1) improving estimates of greenhouse gas emissions from land use change, 2) improving representation of agricultural water management in process-based crop models, and 3) improving understanding of how changes to crop productivity propagate through the global economy to influence agricultural land use. Below you will find some examples of published projects that I have led.
+The core goal of my research program is to identify effective and scalable ways for our food systems to respond to climate change. I work on quantifying the effects of agricultural management and policy on both crop production and environmental impacts, especially greenhouse gas emissions. Current projects of interest involve 1) improving estimates of greenhouse gas emissions from land use change, 2) improving representation of agricultural water management in process-based crop models, and 3) improving understanding of how changes to crop productivity propagate through the global economy to influence agricultural land use. Below are some examples of projects that I have led.
 
-# Recent Projects
 ## Greenhouse Gas Emissions from Irrigation
 
 <img align="center" 
   width="350" 
-  src="/img/sprinkler.png" />
+  src="/img/sprinkler.jpeg" />
 
 We mapped the greenhouse gas emissions from irrigation across the United States at the county scale in order to better understand the impacts and mitigation opportunities associated with irrigation. Irrigation drives direct, on-farm greenhouse gas emissions through energy use, increases in denitrification due to elevated soil moisture, and degassing of carbon dioxide from supersaturated groundwater. Together, these pathways produce approximately 18.9 Mt CO<sub>2</sub> annually, heavily driven by energy use (72% of emissions) and groundwater irrigation (79% of emissions). We also assessed mitigation potential of irrigation energy use emissions, finding that current grid decarbonization trends coupled with modest additional adoption of electrical pumps could dramatically reduce energy-use emissions. This work was covered by [The Colorado Sun](https://coloradosun.com/2024/08/05/colorado-researchers-new-data-greenhouse-gases-irrigation/).
 
@@ -23,16 +22,13 @@ Read more about total direct GHG emissions from US irrigation [here](https://rdc
 
 <img align="center" 
   width="350" 
-  src="/img/crops.png" />
-  
-Photo by Tayla Kohler on Unsplash
-      
+  src="/img/crops.jpeg" />
+        
 The link between plant diversity and the stability of ecosystem function is an age-old ecological question. We [evaluated this relationship](https://iopscience.iop.org/article/10.1088/1748-9326/aca2be/meta#erlaca2bes2) in the context of the caloric and economic production of US crop using state-level data from the US Department of Agriculture. We found that crop diversity improved the stability of economic, but not caloric yields, suggesting that price responses can buffer against interannual yield variability and help to stabilize revenues. This project began as part of a Colorado State University course on environmental data science, and was ultimately co-authored by all of the students in the class.
 
 The data and code for this project are freely available [here](https://zenodo.org/records/7332106), and include harmonized and gap-filled USDA Census data on the area and production of 90 crops from 1981-2020.
 
 
-# Older Work
 ## Desert Plant Ecophysiology
 
 <img align="center" 
