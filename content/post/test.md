@@ -1,10 +1,8 @@
 ---
-title: "Coming soon"
-date: 2024-09-07T12:00:00Z
-lastmod: 2024-09-07T12:00:00Z
+title: "Latest News"
+date: 2025-10-01T12:00:00Z
+lastmod: 2025-10-01T12:00:00Z
 draft: false
-author: "Your Name"
-authorLink: ""
 description: "Temp text."
 
 hiddenFromHomePage: false
@@ -20,10 +18,8 @@ math:
 lightgallery: false
 ---
 
-<!--
 ## Stay Connected
 
-I'll be posting regular updates here about new publications, upcoming presentations, and dataset releases. Feel free to [contact me](/about/) if you have questions about my work or potential collaborations.
+I'll be posting regular updates here about new publications, upcoming presentations, and dataset releases. Feel free to [contact me](/bio/) if you have questions about my work or potential collaborations.
 
 Thanks for visiting!
--->
