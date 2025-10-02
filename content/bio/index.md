@@ -18,10 +18,11 @@ I recently completed my PhD in Soil and Crop Science with the [Agricultural Sust
 Prior to grad school, I received my BS in Environmental Studies from Westminster College in Salt Lake City and then worked for several years with the [Ehleringer lab](https://www.ehleringer.net/). In a previous career, I was an aerialist on the US Ski Team. Outside of science, I spend my time cooking, gardening, traveling, and playing outside.
 
 **Contact**
-
-[CV](/files/DriscollCV_aug2025.pdf)<br>
 avery.driscoll@colostate.edu<br>
+[Google Scholar](https://scholar.google.com/citations?user=BE28cn4AAAAJ&hl=en)
 [LinkedIn](https://www.linkedin.com/in/avery-driscoll-978624218/)
+[CV](/files/DriscollCV_aug2025.pdf)<br>
+
 
 
 
