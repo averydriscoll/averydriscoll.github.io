@@ -17,9 +17,3 @@ math:
   enable: false
 lightgallery: false
 ---
-
-## Stay Connected
-
-I'll be posting regular updates here about new publications, upcoming presentations, and dataset releases. Feel free to [contact me](/bio/) if you have questions about my work or potential collaborations.
-
-Thanks for visiting!
