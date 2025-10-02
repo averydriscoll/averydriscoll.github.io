@@ -43,7 +43,7 @@ This long-term monitoring project was started by [Dr. Jim Ehleringer](https://ww
 ## Coffee Provenancing with Stable Isotopes
 
 <img align="left" 
-  width="350" 
+  width="300" 
   src="/img/coffee.jpg" 
   style="margin-right:20px;" />
 
