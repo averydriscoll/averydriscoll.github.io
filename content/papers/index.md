@@ -2,9 +2,10 @@
 title: "Papers & Data"
 date: 2025-10-01
 description: "Publications, datasets, and code"
+headerstyle: "text"
 ---
 
-Below are my peer-reviewed publications, along with openly available datasets and code from several projects. Paper titles link to full-text PDFs; journal versions are linked by DOI. Please [get in touch](mailto:avery.driscoll@colostate.edu) if you have trouble accessing anything or would like to use the data.
+Below are my peer-reviewed publications, along with openly available datasets and code from several projects. Paper titles link to full-text PDFs; journal versions are linked by DOI. Please [get in touch](mailto:averywdriscoll@gmail.com) if you have trouble accessing anything or would like to use the data.
 
 ## Peer-reviewed publications
 

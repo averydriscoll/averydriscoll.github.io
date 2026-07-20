@@ -1,3 +1,18 @@
+{{ define "header" }}
+<header class="intro-header style-text">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h1>{{ .Site.Title }}</h1>
+                    <span class="subheading">{{ .Site.Params.slogan }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+{{ end }}
+
 {{ define "main" }}
 <article>
   <div class="container">
@@ -25,10 +40,6 @@
             <h3>Papers &amp; Data</h3>
             <p>Publications, datasets, and code from published work.</p>
           </a>
-          <a class="home-card" href="{{ "/outreach/" | relLangURL }}">
-            <h3>Outreach</h3>
-            <p>Media coverage, consulting, and public engagement.</p>
-          </a>
         </div>
 
       </div>
@@ -42,7 +53,7 @@
   .home-intro p { margin-bottom: 20px; }
   .home-nav-cards {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 18px;
     margin: 34px 0 10px;
   }

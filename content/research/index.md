@@ -1,6 +1,7 @@
 ---
 title: "Research"
 date: 2025-10-01
+headerstyle: "text"
 ---
 
 The core goal of my research program is to identify effective and scalable ways for our food systems to respond to climate change. I work on quantifying the effects of agricultural management and policy on both crop production and environmental impacts, especially greenhouse gas emissions. Current projects of interest involve 1) improving estimates of greenhouse gas emissions from land use change, 2) improving representation of agricultural water management in process-based crop models, and 3) improving understanding of how changes to crop productivity propagate through the global economy to influence agricultural land use. Below are some examples of projects that I have led.
@@ -14,6 +15,11 @@ The core goal of my research program is to identify effective and scalable ways 
 We mapped the greenhouse gas emissions from irrigation across the United States at the county scale in order to better understand the impacts and mitigation opportunities associated with irrigation. Irrigation drives direct, on-farm greenhouse gas emissions through energy use, increases in denitrification due to elevated soil moisture, and degassing of carbon dioxide from supersaturated groundwater. Together, these pathways produce approximately 18.9 Mt CO<sub>2</sub> annually, heavily driven by energy use (72% of emissions) and groundwater irrigation (79% of emissions). We also assessed mitigation potential of irrigation energy use emissions, finding that current grid decarbonization trends coupled with modest additional adoption of electrical pumps could dramatically reduce energy-use emissions. This work was covered by [The Colorado Sun](https://coloradosun.com/2024/08/05/colorado-researchers-new-data-greenhouse-gases-irrigation/).
 
 Read more about total direct GHG emissions from US irrigation [here](https://rdcu.be/dPEX6), or dive into the details of energy use for irrigation pumping [here](https://doi.org/10.1038/s41467-024-44920-0). The data for both papers are freely available on Zenodo ([data for N. Comms 2024](https://zenodo.org/records/10416689); [data for N. Water 2024](https://doi.org/10.5281/zenodo.12552398)), and I welcome inquiries from those interested in using the data!
+
+
+## Ecosystem Protection & Restoration
+
+As part of an interdisciplinary team at [Project Drawdown](https://drawdown.org/explorer), I synthesize recent data and literature to evaluate climate change mitigation strategies across the land, food, and ocean sectors. This work supports the Drawdown Explorer, a public-facing library of climate solutions. I lead assessments of solutions related to ecosystem protection and restoration—including protecting and restoring forests, peatlands, and grasslands and savannas—as well as improved nutrient management and irrigation water-use efficiency, quantifying their potential to reduce greenhouse gas emissions at scale.
 
 
 ## Crop Diversity and Yield Stability

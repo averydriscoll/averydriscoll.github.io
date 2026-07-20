@@ -30,8 +30,9 @@ reward = false
 
 # Social / contact icons in the sidebar
 [params.social]
-email = "avery.driscoll@colostate.edu"
+email = "averywdriscoll@gmail.com"
 linkedin = "https://www.linkedin.com/in/avery-driscoll-978624218/"
+scholar = "https://scholar.google.com/citations?user=BE28cn4AAAAJ&hl=en"
 
 [markup]
 [markup.goldmark]
@@ -63,7 +64,3 @@ name = "Papers & Data"
 url = "/papers/"
 weight = 4
 
-[[menu.main]]
-name = "Outreach"
-url = "/outreach/"
-weight = 5

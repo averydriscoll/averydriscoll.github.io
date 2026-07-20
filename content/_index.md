@@ -7,4 +7,4 @@ I am a researcher working at the intersection of agriculture, climate change, an
 
 I recently completed my PhD in Soil and Crop Science at Colorado State University and am joining the [Purdue Agroecology Laboratory](https://ag.purdue.edu/department/agry/lab-sites/pal/index.html) as a postdoc in early 2026. I also work with [Project Drawdown](https://drawdown.org/explorer) on their public library of climate solutions.
 
-Use the links below to learn more about my background, research, data, and outreach — or get in touch any time.
+Use the links below to learn more about my background, research, and publications — or get in touch any time.
