@@ -59,8 +59,8 @@ url = "/research/"
 weight = 3
 
 [[menu.main]]
-name = "Data"
-url = "/data/"
+name = "Papers & Data"
+url = "/papers/"
 weight = 4
 
 [[menu.main]]
