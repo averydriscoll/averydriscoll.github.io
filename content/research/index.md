@@ -1,8 +1,6 @@
 ---
 title: "Research"
-date: 2025-10-1
-menu: "main"
-weight: 4
+date: 2025-10-01
 ---
 
 The core goal of my research program is to identify effective and scalable ways for our food systems to respond to climate change. I work on quantifying the effects of agricultural management and policy on both crop production and environmental impacts, especially greenhouse gas emissions. Current projects of interest involve 1) improving estimates of greenhouse gas emissions from land use change, 2) improving representation of agricultural water management in process-based crop models, and 3) improving understanding of how changes to crop productivity propagate through the global economy to influence agricultural land use. Below are some examples of projects that I have led.

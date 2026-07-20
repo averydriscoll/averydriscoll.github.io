@@ -1,52 +1,37 @@
-baseURL = "https://averydriscoll.github.io"  # Replace with your actual username
+baseURL = "https://averydriscoll.github.io"
 languageCode = "en-us"
 title = "Avery Driscoll"
 theme = "cleanwhite"
 
 paginate = 5
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-
-[author]
-name = "Avery Driscoll"
+copyright = "© Avery Driscoll"
 
 [params]
-header_image = "img/home-bg.jpg"
-SEOTitle = "Avery Driscoll | Research Website"
-description = "Agriculture and climate change"
-keyword = "agriculture, climate change, soil and crop science, data science"
-url = "https://averydriscoll.github.io"  # Replace with your username
-baseurl = "https://averydriscoll.github.io"  # Replace with your username
+header_image = "img/crops.jpg"
+slogan = "Agriculture · Climate · Data Science"
+SEOTitle = "Avery Driscoll | Agriculture and Climate Research"
+description = "Avery Driscoll studies how food systems can respond to climate change, focusing on agricultural greenhouse gas emissions, crop modeling, and land use."
+keyword = "agriculture, climate change, greenhouse gas emissions, irrigation, soil and crop science, data science"
+url = "https://averydriscoll.github.io"
+baseurl = "https://averydriscoll.github.io"
 
-# Sidebar settings
-sidebar_about_description = "Academic researcher interested in [your field]. Welcome to my website where I share my research, data, and outreach activities."
-sidebar_avatar = "img/avatar.jpg"  # You can add a profile photo later
-
-# Social media links (optional - remove # to enable)
-# twitter_username = "yourusername"
-# github_username = "yourusername"  
-# facebook_username = "yourusername"
-# linkedin_username = "yourusername"
+# Sidebar (shown on the homepage and content pages)
+about_me = true
+sidebar_about_description = "I study how food systems can respond to climate change, with a focus on agricultural greenhouse gas emissions, irrigation, and land use. Postdoc at the Purdue Agroecology Lab."
+sidebar_avatar = "img/headshot.png"
 
 # Feature settings
 featured_tags = false
 featured_condition_size = 0
 bookmark_tag = "bookmark"
 omit_categories = true
-
-# Analytics (optional)
-# ba_track_id = ""
-# [services.googleAnalytics]
-# id = ""
-
-# Comments (optional)
-# [services.disqus]
-# shortname = ""
-
-# Search (optional)
 algolia_search = false
-
-# Reward (optional)
 reward = false
+
+# Social / contact icons in the sidebar
+[params.social]
+email = "avery.driscoll@colostate.edu"
+linkedin = "https://www.linkedin.com/in/avery-driscoll-978624218/"
 
 [markup]
 [markup.goldmark]
@@ -57,7 +42,16 @@ unsafe = true
 style = "github"
 lineNos = false
 
-# Menu configuration - this replaces the default "News" and "All posts" buttons
+# Top navigation menu (defined only here — not in page front matter)
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Bio"
+url = "/bio/"
+weight = 2
 
 [[menu.main]]
 name = "Research"
@@ -73,9 +67,3 @@ weight = 4
 name = "Outreach"
 url = "/outreach/"
 weight = 5
-
-[[menu.main]]
-name = "Bio"
-url = "/bio/"
-weight = 2
-
