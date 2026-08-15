@@ -13,15 +13,17 @@ headerstyle: "text"
 
 
 
-I recently completed my PhD in Soil and Crop Science with the [Agricultural Sustainability and Climate Impacts lab](https://ascilab.colostate.edu/) at Colorado State University, where my work focused on irrigation-related greenhouse gas emissions. I am very excited to be joining the [Purdue Agroecology Laboratory](https://ag.purdue.edu/department/agry/lab-sites/pal/index.html) as a postdoc at the start of 2026. For the last year, I have also worked as part of an interdisciplinary team at Project Drawdown to develop the [Drawdown Explorer](https://drawdown.org/explorer), a public-facing library of climate solutions, focusing on nutrient management and ecosystem protection. I am available for consulting related to greenhouse gas emissions accounting and mitigation, particularly in the context of agriculture and land use change.
+I am a currently postdoctoral researcher in the the [Purdue Agroecology Laboratory](https://ag.purdue.edu/department/agry/lab-sites/pal/index.html) with Dr. Yichao Rui. Some of the topics that I'm currently interested in include identifying weather drivers of cropland carbon cycling, improving model representation of nitrous oxide emissions, and evaluating methods for estimating indirect land use change and associated emissions. I completed my PhD in Soil and Crop Science in Dec. 2025 with the [Agricultural Sustainability and Climate Impacts lab](https://ascilab.colostate.edu/) at Colorado State University, where my work focused on irrigation-related greenhouse gas emissions, productivity benefits, and indirect land use change. 
 
-Prior to grad school, I received my BS in Environmental Studies from Westminster College in Salt Lake City and then worked for several years with the [Ehleringer lab](https://www.ehleringer.net/). In a previous career, I was an aerialist on the US Ski Team. Outside of science, I spend my time cooking, gardening, traveling, and playing outside.
+For the last two years, I have also worked as part of an interdisciplinary team at Project Drawdown to develop the [Drawdown Explorer](https://drawdown.org/explorer), a public-facing library of climate change mitigation solutions, where I focused on mitigation opportunities related to agricultural management and ecosystem protection and restoration. 
+
+Prior to grad school, I received my BS in Environmental Studies from Westminster College in Salt Lake City. I then worked for several years with the [Ehleringer lab](https://www.ehleringer.net/), using stable isotopes to better understand long-term trends in carbon, nitrogen, and water cycling in desert shrubs. In a previous career, I was an aerialist on the US Ski Team. Outside of science, I spend my time cooking, gardening, traveling, and playing outside.
 
 **Contact**<br>
 [averywdriscoll@gmail.com](mailto:averywdriscoll@gmail.com)<br>
 [Google Scholar](https://scholar.google.com/citations?user=BE28cn4AAAAJ&hl=en)<br>
 [LinkedIn](https://www.linkedin.com/in/avery-driscoll-978624218/)<br>
-[CV](/files/DriscollCV_june2026.docx)<br>
+[CV](/files/DriscollCV_aug2026.docx)<br>
 
 
 
