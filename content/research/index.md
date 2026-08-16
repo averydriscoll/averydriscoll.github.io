@@ -4,11 +4,11 @@ date: 2025-10-01
 headerstyle: "text"
 ---
 
-The core goal of my research program is to identify effective and scalable ways for our food systems to respond to climate change. I work on quantifying the effects of agricultural management and policy on both crop production and environmental outcomes, especially greenhouse gas emissions. Below are some examples of projects that I have led.
+The core goal of my research program is to identify effective and scalable ways for our food systems to respond to climate change, tackling the joint challenges of adaptation and mitigation in tandem. I use spatially explicit data analysis and modeling tools to quantify the effects of agricultural management and policy on both crop production and environmental outcomes, especially greenhouse gas emissions. Below are some examples of completed projects.
 
 ## Productivity Benefits of Irrigation and Avoided Indirect Land Use Change
 
-Irrigation produces greenhouse gas emissions, but it also substantially increases crop yields. 
+Irrigation produces greenhouse gas emissions, but it also substantially increases crop yields. Broadly, increasing yields can reduce the amount of land required for agricultural use. Given that land use change accounts for nearly a third of food system greenhouse gas emissions, tracing the impacts of agricultural management practices on yields and, subsequently, effects on global agricultural land use, is essential for understanding the net emissions impacts of management or policy changes. We quantified these benefits for US irrigation – linking local yield increases to avoided global land use change and associated emissions reductions – and found that the benefits of irrigation far outweighed the direct emissions costs. The modeling pipeline that we developed for this project is transferrable to other practices, and the results demonstrates the importance of accounting for both direct, local emissions impacts and indirect, global effects on land use. *Paper and data coming soon!*
 
 ## Greenhouse Gas Emissions from Irrigation
 
