@@ -8,7 +8,7 @@ copyright = "© Avery Driscoll"
 
 [params]
 header_image = "img/crops.jpg"
-slogan = "Agriculture · Climate · Data Science"
+slogan = "Postdoc – Purdue Agronomy Department"
 SEOTitle = "Avery Driscoll | Agriculture and Climate Research"
 description = "Avery Driscoll studies how food systems can respond to climate change, focusing on agricultural greenhouse gas emissions, crop modeling, and land use."
 keyword = "agriculture, climate change, greenhouse gas emissions, irrigation, soil and crop science, data science"
@@ -17,7 +17,6 @@ baseurl = "https://averydriscoll.github.io"
 
 # Sidebar (shown on the homepage and content pages)
 about_me = true
-sidebar_about_description = "I study how food systems can respond to climate change, with a focus on agricultural greenhouse gas emissions, irrigation, and land use. Postdoc at the Purdue Agroecology Lab."
 sidebar_avatar = "img/headshot.png"
 
 # Feature settings
