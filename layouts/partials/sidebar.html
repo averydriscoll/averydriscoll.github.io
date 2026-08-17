@@ -1,4 +1,3 @@
-
 <!-- Sidebar Container -->
 <div class="
     col-lg-3 col-lg-offset-0
@@ -20,199 +19,13 @@
             {{ with .Site.Params.sidebar_about_description }}
                 <p>{{ . | safeHTML }}</p>
             {{ end }}
-           <!-- SNS Link -->
-           <ul class="list-inline">
-               {{ if .Site.Params.social.email }}
-               <li>
-                   <a href="mailto:{{ .Site.Params.social.email }}">
-                      <span class="fa-stack fa-lg">
-                          <i class="fa fa-circle fa-stack-2x"></i>
-                          <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-                      </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.twitter }}
-               <li>
-                   <a href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.zhihu }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-stack-1x fa-inverse">知</i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.weibo }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-weibo fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.facebook }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.wechat }}
-               <li>
-                   <a target="_blank" href="{{ . | relURL}}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-weixin fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.github }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.gitlab }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-gitlab fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.git }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-git fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.linkedin }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.scholar }}
-               <li>
-                   <a target="_blank" href="{{ . }}" title="Google Scholar">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.medium }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-medium fa-stack-1x fa-inverse"></i>
-                            </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.stackoverflow }}
-                    <li>
-                        <a target="_blank" href="{{ . }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-stack-overflow fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-            {{ end }}
-            {{ with .Site.Params.social.reddit }}
-                    <li>
-                        <a target="_blank" href="{{ . }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-reddit fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-            {{ end }}
-            {{ with .Site.Params.social.mastodon }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-mastodon fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.keybase }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-keybase fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.xing }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-xing fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.instagram }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-               {{ with .Site.Params.social.flickr }}
-               <li>
-                   <a target="_blank" href="{{ . }}">
-                       <span class="fa-stack fa-lg">
-                           <i class="fas fa-circle fa-stack-2x"></i>
-                           <i class="fab fa-flickr fa-stack-1x fa-inverse"></i>
-                       </span>
-                   </a>
-               </li>
-               {{ end }}
-                </ul>
+           <!-- Contact -->
+           <div class="sidebar-contact">
+               <p><strong>Contact</strong><br>
+               <a href="mailto:averywdriscoll@gmail.com">averywdriscoll@gmail.com</a><br>
+               <a href="https://scholar.google.com/citations?user=BE28cn4AAAAJ&amp;hl=en" target="_blank">Google Scholar</a><br>
+               <a href="https://www.linkedin.com/in/avery-driscoll-978624218/" target="_blank">LinkedIn</a></p>
+           </div>
             </div>
     </section>
 	{{ end }}
@@ -264,8 +77,7 @@
         <h5>{{ .Site.Params.publications.Title }}</h5>
         <div class="short-about">
         {{ range .Site.Params.publications.items }}
-        <a href="{{.href}}">
-            <img src="{{.image}}" alt="avatar" style="cursor: pointer" />
+        <a href="{{.image}}" alt="avatar" style="cursor: pointer" />
         </a>
         {{ end }}
         </div>
