@@ -19,7 +19,12 @@
             {{ with .Site.Params.sidebar_about_description }}
                 <p>{{ . | safeHTML }}</p>
             {{ end }}
-           <!-- Contact -->
+<!-- Contact -->
+           <style>
+             .sidebar-contact { color: #404040; }
+             .sidebar-contact a { color: #0085a1 !important; }
+             .sidebar-contact a:hover { color: #006e86 !important; }
+           </style>
            <div class="sidebar-contact">
                <p><strong>Contact</strong></p>
                <p>
