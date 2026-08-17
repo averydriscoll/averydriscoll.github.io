@@ -23,7 +23,7 @@ Prior to grad school, I received my BS in Environmental Studies from Westminster
 [averywdriscoll@gmail.com](mailto:averywdriscoll@gmail.com)<br>
 [Google Scholar](https://scholar.google.com/citations?user=BE28cn4AAAAJ&hl=en)<br>
 [LinkedIn](https://www.linkedin.com/in/avery-driscoll-978624218/)<br>
-[CV](/files/DriscollCV_aug2026.docx)<br>
+[CV](/files/DriscollCV_aug2026_webversion.docx)<br>
 
 
 
