@@ -19,12 +19,5 @@ For the last two years, I have also worked as part of an interdisciplinary team 
 
 Prior to grad school, I received my BS in Environmental Studies from Westminster College in Salt Lake City. I then worked for several years with the [Ehleringer lab](https://www.ehleringer.net/), using stable isotopes to better understand long-term trends in carbon, nitrogen, and water cycling in desert shrubs. In a previous career, I was an aerialist on the US Ski Team. Outside of science, I spend my time cooking, gardening, traveling, and playing outside.
 
-**Contact**<br>
-[averywdriscoll@gmail.com](mailto:averywdriscoll@gmail.com)<br>
-[Google Scholar](https://scholar.google.com/citations?user=BE28cn4AAAAJ&hl=en)<br>
-[LinkedIn](https://www.linkedin.com/in/avery-driscoll-978624218/)<br>
-[CV](/files/DriscollCV_aug2026_webversion.docx)<br>
-
-
 
 
