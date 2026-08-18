@@ -12,9 +12,7 @@ Irrigation produces greenhouse gas emissions, but it also substantially increase
 
 ## Greenhouse Gas Emissions from Irrigation
 
-<img align="center" 
-  width="550" 
-  src="/img/sprinkler.jpg" />
+<img src="/img/sprinkler.jpg" width="550" style="display:block;margin:0 auto;" />
 
 We mapped the greenhouse gas emissions from irrigation across the United States at the county scale in order to better understand the impacts and mitigation opportunities associated with irrigation. Irrigation drives direct, on-farm greenhouse gas emissions through energy use, increases in denitrification due to elevated soil moisture, and degassing of carbon dioxide from supersaturated groundwater. Together, these pathways produce approximately 18.9 Mt CO<sub>2</sub> annually, heavily driven by energy use (72% of emissions) and groundwater irrigation (79% of emissions). We also assessed mitigation potential of irrigation energy use emissions, finding that current grid decarbonization trends coupled with modest additional adoption of electrical pumps could dramatically reduce energy-use emissions. This work was covered by [The Colorado Sun](https://coloradosun.com/2024/08/05/colorado-researchers-new-data-greenhouse-gases-irrigation/).
 
