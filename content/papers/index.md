@@ -9,7 +9,7 @@ Below are my peer-reviewed publications, along with openly available datasets an
 
 ## Peer-reviewed publications
 
-**Driscoll, A.W.**, J.A. Johnson, J.E. Blumberg, A.E. King, S.A. Spawn-Lee, N.D. Mueller.[Global greenhouse gas cobenefits of US irrigated agriculture.] (/files/Driscoll%20et%20al%202026%20PNAS.pdf) *Proceedings of the National Academy of Sciences.* [doi:10.1073/pnas.2528170123](https://doi.org/10.1073/pnas.2528170123)
+**Driscoll, A.W.**, J.A. Johnson, J.E. Blumberg, A.E. King, S.A. Spawn-Lee, N.D. Mueller.[Global greenhouse gas cobenefits of US irrigated agriculture.](/files/Driscoll%20et%20al%202026%20PNAS.pdf) *Proceedings of the National Academy of Sciences.* [doi:10.1073/pnas.2528170123](https://doi.org/10.1073/pnas.2528170123)
 
 Cao, P., F. Bilotto, C.G. Fischer, N.D. Mueller, **A.W. Driscoll**, K.M. Carlson, J.S. Gerber, P. Smith, F.N. Tubiello, P.C. West, L. You, M. Herrero (2026). [Mapping greenhouse gas emissions from global cropland circa 2020.](/files/Cao%20et%20al%202026%20N%20Climate%20Change.pdf) *Nature Climate Change.* [doi:10.1038/s41558-026-02558-4](https://doi.org/10.1038/s41558-026-02558-4)
 
