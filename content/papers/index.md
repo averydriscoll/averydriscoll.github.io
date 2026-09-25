@@ -9,7 +9,9 @@ Below are my peer-reviewed publications, along with openly available datasets an
 
 ## Peer-reviewed publications
 
-Cao, P., F. Bilotto, C.G. Fischer, N.D. Mueller, **A.W. Driscoll**, K.M. Carlson, J.S. Gerber, P. Smith, F.N. Tubiello, P.C. West, L. You, M. Herrero (2026). [Mapping greenhouse gas emissions from global cropland circa 2020.](/files/Cao%20et%20al%202026%20N%20Climate%20Change.pdf) *Nature Climate Change.*
+**Driscoll, A.W.**, J.A. Johnson, J.E. Blumberg, A.E. King, S.A. Spawn-Lee, N.D. Mueller.[Global greenhouse gas cobenefits of US irrigated agriculture.] (/files/Driscoll%20et%20al%202026%20PNAS.pdf) *Proceedings of the National Academy of Sciences.* [doi:10.1073/pnas.2528170123](https://doi.org/10.1073/pnas.2528170123)
+
+Cao, P., F. Bilotto, C.G. Fischer, N.D. Mueller, **A.W. Driscoll**, K.M. Carlson, J.S. Gerber, P. Smith, F.N. Tubiello, P.C. West, L. You, M. Herrero (2026). [Mapping greenhouse gas emissions from global cropland circa 2020.](/files/Cao%20et%20al%202026%20N%20Climate%20Change.pdf) *Nature Climate Change.* [doi:10.1038/s41558-026-02558-4](https://doi.org/10.1038/s41558-026-02558-4)
 
 Lengyel, T.<sup>&dagger;</sup>, **A.W. Driscoll**, I. Jahromi<sup>&dagger;</sup>, J.R. Ehleringer (2025). [Climate gradients underlie geographical variations in iWUE and &delta;<sup>15</sup>N values of *Encelia*.](/files/Lengyel%20et%20al%202025%20Plant%20Envi%20Int.pdf) *Plant-Environment Interactions.* [doi:10.1002/pei3.70080](https://doi.org/10.1002/pei3.70080)
 
@@ -46,6 +48,11 @@ Bitter, N.Q., D.P. Fernandez, **A.W. Driscoll**, J.D. Howa, J.R. Ehleringer (202
 ## Data & code
 
 I am committed to open, reusable science. The datasets and code below are freely available, and I welcome inquiries from anyone interested in building on them.
+
+### Yield benefits and avoided GHG emissions from US irrigation
+
+Maps of rainfed to irrigated yield ratios in the US, global maps of projected land use change under a hypothetical loss of US irrigated production, and high-resolution data on carbon stock change from land use change.
+- Data and code: [Zenodo](https://zenodo.org/records/21780281)
 
 ### Greenhouse gas emissions from US irrigation
 
